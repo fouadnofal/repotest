@@ -6,3 +6,4 @@ aya
 aya2
 aya3
 aya4
+ayarabih
